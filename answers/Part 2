@@ -1,0 +1,11 @@
+SELECT * FROM types;
+
+SELECT * FROM pokemons
+WHERE id = 45;
+
+SELECT * FROM pokemons;
+
+SELECT * FROM types;
+
+SELECT * FROM pokemons
+WHERE secondary_type IS NOT null;
